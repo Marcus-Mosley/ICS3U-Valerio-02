@@ -2,7 +2,7 @@
 //
 // Created by Marcus A. Mosley
 // Created on January 2020
-// This program shows a SplashScreen
+// This program shows a Start Screen
 
 #include <gb/gb.h>
 #include <stdio.h>
